@@ -3,8 +3,8 @@ import pandas as pd
 import datetime
 import helper_fun as h
 
-df=pd.read_csv(r"C:\Users\HP\Downloads\Book1.csv")
-df_cook_history=pd.read_csv(r"C:\Users\HP\OneDrive\Desktop\cook_history.csv")
+df=pd.read_csv("Book1.csv")
+df_cook_history=pd.read_csv("cook_history.csv")
 
 ###                         ###
 
@@ -138,7 +138,7 @@ if r_button=='Add Recipe':
         new_row=pd.DataFrame(dic)
         if submitted:
             df=pd.concat([df, new_row], ignore_index=True)
-            df.to_csv(r"C:\Users\HP\Downloads\Book1.csv", index=False)
+            df.to_csv("Book1.csv", index=False)
 
             st.write(new_row)
 
@@ -271,5 +271,5 @@ if r_button=='Cook Now Calculator':
     if middle.button("DONE COOKING", type="primary", width="stretch"):
         st.write(f"{recipe_now} has been added to your cooking history")
         df_cook_history=pd.concat([df_cook_history, new_cooked_row], ignore_index=True)
-        df_cook_history.to_csv(r"C:\Users\HP\OneDrive\Desktop\cook_history.csv", index=False)
+        df_cook_history.to_csv("cook_history.csv", index=False)
     
