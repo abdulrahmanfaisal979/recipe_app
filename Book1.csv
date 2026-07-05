@@ -1,0 +1,11 @@
+recipe_name,recipe_desc,recipe_cat,serv_size,food_rating,ing_lst,prep_time,difficulty_level,cook_steps,cook_notes,time_now
+Cheese Pasta,Simple creamy pasta with cheese,Lunch,2,4,"200 g pasta, 1 cup milk, 3 cheese slices, 1 tbsp butter, 0.5 tsp salt, 0.25 tsp black pepper",25,Medium,"1. Boil pasta.2. Heat milk, butter, and cheese.3. Add pasta and mix.4. Serve warm.",You can add vegetables.,2026-07-02 00:00:00
+Chicken Biryani,Spiced rice with chicken,Lunch,3,5,"2 cups rice, 300 g chicken, 1 onion, 2 tbsp oil, 1 tbsp biryani spice, 0.5 tsp salt, 3 cups water",50,Hard,1. Cook onion and chicken.2. Add spices and rice.3. Add water and cook.4. Serve hot.,Use ready biryani spice.,2026-06-28 00:00:00
+Cheese Omelette,Quick omelette with cheese,Breakfast,1,4,"2 eggs, 1 cheese slice, 1 tsp oil, 0.25 tsp salt, 0.25 tsp black pepper",10,Easy,1. Beat eggs with salt and pepper.2. Pour into a pan.3. Add cheese.4. Fold and serve.,Cook on low heat.,2026-06-15 00:00:00
+Chocolate Cake,Simple homemade chocolate cake,Dessert,6,5,"1 cup flour, 0.5 cup sugar, 0.25 cup cocoa powder, 1 egg, 0.5 cup milk, 0.25 cup oil, 1 tsp baking powder",40,Medium,"1. Mix dry ingredients.2. Add egg, milk, and oil.3. Pour into cake pan.4. Bake until done.",Check carefully before removing from oven.,2026-05-31 00:00:00
+Strawberry Ice Cream,Simple strawberry ice cream dessert,Dessert,4,5,"2 cups frozen strawberries, 1 cup cream, 0.5 cup condensed milk, 1 tsp vanilla",15,Easy,1. Blend strawberries.2. Add cream and condensed milk.3. Mix well.4. Freeze until firm.,Freeze for 2 hours.,2026-05-20 00:00:00
+Vegetable Salad,Fresh vegetable salad,Dinner,2,3,"1 cucumber, 1 tomato, 0.5 carrot, 0.25 lettuce, 1 tbsp olive oil, 1 tbsp lemon juice, 0.25 tsp salt",10,Easy,"1. Wash vegetables.2. Chop vegetables.3. Add oil, lemon, and salt.4. Mix and serve.",Use fresh vegetables,2026-06-05 00:00:00
+Dal with Rice,Simple homemade lentil,Lunch,2,4,"1 cup rice, 1 cup dal, 3 cups water, 1 tbsp oil, 0.5 tsp turmeric, 1 tsp salt, 1 tomato",40,Easy,"1. Wash the rice and dal
+2. Cook the rice separately 
+3. Add tomato, and salt
+4. Add dal and water",Adjust water depending on your preference,2026-07-05
